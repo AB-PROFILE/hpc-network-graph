@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
+// import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import { nodes as mockNodes, edges as mockEdges } from './data/mockData.js';
 import SearchBar from './components/SearchBar.jsx';
 import NetworkGraph from './components/NetworkGraph.jsx';
