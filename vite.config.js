@@ -5,5 +5,7 @@ export default defineConfig({
   plugins: [react()],
   css: {
     postcss: './postcss.config.js',
+     base: '/hpc-network-graph/',
   },
+  base: '/hpc-network-graph/',
 })
