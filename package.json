@@ -26,7 +26,7 @@
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
     "react-force-graph": "^1.47.7",
-    "rollup": "^4.44.1",
+    "rollup": "^4.44.2",
     "source-map-js": "^1.2.1",
     "tinyglobby": "^0.2.14",
     "update-browserslist-db": "^1.1.3",
