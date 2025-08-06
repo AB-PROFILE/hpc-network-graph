@@ -21,7 +21,7 @@
     "node-releases": "^2.0.19",
     "normalize-range": "^0.1.2",
     "picocolors": "^1.1.1",
-    "picomatch": "^4.0.2",
+    "picomatch": "^4.0.3",
     "postcss-value-parser": "^4.2.0",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
